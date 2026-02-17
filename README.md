@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi, I'm Gabriel 👋
+👨‍💻 About Me
 
-<!--
-**gabrielkadtech/gabrielkadtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Computer Science student currently building my foundation in programming and problem-solving.
 
-Here are some ideas to get you started:
+I'm particularly interested in Data Engineering, Cybersecurity, and Software Engineering, and I'm actively learning how systems work behind the scenes — from databases to secure applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 What I'm Currently Working On
+
+Strengthening my understanding of Data Structures & Algorithms
+
+Building small projects to improve my coding skills
+
+Learning about databases and how data flows through systems
+
+Exploring cybersecurity fundamentals
+
+🛠️ Tools & Technologies I'm Learning
+
+Languages: Python, Java, SQL
+
+Web Basics: HTML, CSS, JavaScript
+
+Databases: MySQL
+
+Tools: Git, GitHub, VS Code
+
+Operating Systems: Linux (beginner)
+
+🎯 Goals
+
+Build real-world projects
+
+Contribute to open-source
+
+Grow into a skilled Software Engineer with strong security and data knowledge
+
+📫 How to Reach Me
+
+Email: your email here
+
+LinkedIn: your LinkedIn here
